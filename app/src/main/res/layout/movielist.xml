@@ -8,10 +8,10 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Show all movies with PG13 rating" />
 
     <ListView
-        android:id="@+id/lv"
+        android:id="@+id/lvMovies"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>

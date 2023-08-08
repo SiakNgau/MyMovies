@@ -57,4 +57,6 @@ public class Movies implements Serializable {
     public void setRating(String rating) {
         this.rating = rating;
     }
+
 }
+
